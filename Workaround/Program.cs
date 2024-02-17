@@ -13,7 +13,8 @@ int sonuc = Topla(6,58);
 
 //Diziler  / Arrays
 
-string ogrenci1 = "Engin";
+
+string ogrenci1 = "Ahmet";
 string ogrenci2 = "Ferhat";
 string ogrenci3 = "Yılmaz";
 
